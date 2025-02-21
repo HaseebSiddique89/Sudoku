@@ -21,16 +21,16 @@ This is a **C++ console-based Sudoku game** with **Easy** and **Hard** difficult
 
 ## 📸 Screenshots  
 ### Main Menu  
-![Main Menu](path/to/main_menu.png)  
+![Main Menu](Snaps/s1.JPG)  
 
 ### Difficulty Selection  
-![Difficulty Selection](path/to/difficulty_selection.png)  
+![Difficulty Selection](Snaps/s2.JPG)  
 
 ### Playing Easy Mode  
-![Easy Mode](path/to/easy_mode.png)  
+![Easy Mode](Snaps/s3.JPG)  
 
 ### Entering Values  
-![Entering Values](path/to/entering_values.png)  
+![Entering Values](Snaps/s4.JPG)  
 
 ## 📥 Installation & Execution  
 1. Clone this repository:  
