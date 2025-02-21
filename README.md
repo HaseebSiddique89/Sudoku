@@ -36,3 +36,10 @@ This is a **C++ console-based Sudoku game** with **Easy** and **Hard** difficult
 1. Clone this repository:  
    ```sh
    git clone https://github.com/haseebsiddique89/Sudoku.git
+2. Navigate to the project folder:
+   ```sh
+   cd Sudoku
+3. Compile (if needed) and run the game:
+   ```sh
+   g++ Sudoku.cpp -o Sudoku.exe
+   ./Sudoku.exe
