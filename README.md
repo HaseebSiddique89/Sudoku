@@ -35,4 +35,4 @@ This is a **C++ console-based Sudoku game** with **Easy** and **Hard** difficult
 ## 📥 Installation & Execution  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/yourusername/sudoku-game.git
+   git clone https://github.com/haseebsiddique89/Sudoku.git
